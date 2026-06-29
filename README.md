@@ -1,4 +1,3 @@
-# v3.plugin.api// 同步 ID: bbf9c8ca @ Fri May  8 17:24:18 UTC 2026
 // 同步 ID: 10469154 @ Sat May  9 00:57:50 UTC 2026
 // 同步 ID: 1653c187 @ Sat May  9 15:39:17 UTC 2026
 // 同步 ID: 9823d56a @ Sun May 10 07:59:50 UTC 2026
@@ -28,3 +27,4 @@
 // 同步 ID: 6d19d8a9 @ Thu Jun 25 15:20:27 UTC 2026
 // 同步 ID: 92baf659 @ Fri Jun 26 01:58:26 UTC 2026
 // 同步 ID: 0ceadfb5 @ Fri Jun 26 10:43:49 UTC 2026
+// 同步 ID: 3de499cb @ Mon Jun 29 09:59:44 UTC 2026
